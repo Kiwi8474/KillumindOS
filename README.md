@@ -80,7 +80,7 @@ Logout
 
 
 --------------------------------------------------------------------------------------------------------------------------
-E-mail for questions or help related to KillumindOS: killumindoscustomers@gmail.com
-
-E-mail for anything business related:
+E-mail for questions, help or bug reports related to KillumindOS:  
+killumindoscustomers@gmail.com  
+E-mail for anything business related:  
 killumindosbusiness@gmail.com
