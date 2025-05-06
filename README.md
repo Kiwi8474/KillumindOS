@@ -77,4 +77,5 @@ Logout
 -----------------------------------------------------
 
 If you have any questions or need help with something related to KillumindOS, contact me under my support e-mail: killumindoscustomers@gmail.com
+
 or if you want to talk about anything business related: killumindosbusiness@gmail.com
