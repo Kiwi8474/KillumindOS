@@ -2,47 +2,52 @@ WARNING DO NOT REMOVE/EDIT/RENAME ANY OF THE FILES BESIDES YOUR USER FOLDER, USE
 
 
 
-HOW TO BOOT KILLUMINDOS:
+## How to boot KillumindOS
 
-Requirements: Python 3.xx installed
+**Requirements:** Python 3.xx installed
 
-1. If you're on Windows:
+**1. If you're on Windows:**
 simply double-click the Boot.bat file inside KillumindOS
 
-2. If you're on Linux/Mac:
+**2. If you're on Linux/Mac:**
 go into the terminal and copy and paste this command
-
-bash /PathToKillumindOS/KillumindOS/Boot.sh
-
-3. Boot up manual:
+```
+cd path/to/KillumindOS_<version>
+bash Boot.sh
+```
+**3. Boot up manual:**
 navigate to
+```
 KillumindOS\boot
+```
 and double-click Bootloader.py
 
 
 
-HOW TO IMPORT USER TO ANOTHER OS VERSION:
+## How to import user to another version
 
 If you already have a user profile on one version of KillumindOS, here's how you can import your existing user to another version:
  
-1. Navigate to your user file's folder
+**1. Navigate to your user file's folder**
+```
 KillumindOS\systems\killumindos\files\users
-
-2. Copy and paste the folder inside the other KillumindOS
+```
+**2. Copy and paste the folder inside the other KillumindOS**
 in there, you should have a folder with your username.
 simply copy that folder and paste it into the users folder inside the other version of KillumindOS
 
-3. Navigate to the files folder
+**3. Navigate to the files folder**
+```
 KillumindOS\systems\killumindos\files
-
-4. Copy and paste setup.txt
+```
+**4. Copy and paste setup.txt**
 inside the files folder, you should have an empty setup.txt file. Copy that file and navigate into the files folder of the other OS version and paste it there.
 
 That's it! if you've done everything right, then you should be redirected to the login instead of the setup when your launching the bootloader
 
 
 
-HOW TO USE PROGRAMS:
+## How to use programs
 
 Terminal
 - ls : shows files in current directory
@@ -74,9 +79,8 @@ Logout
 
 
 
------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+E-mail for questions or help related to KillumindOS: killumindoscustomers@gmail.com
 
-If you have any questions or need help with something related to KillumindOS, contact me under my customer support e-mail: killumindoscustomers@gmail.com
-
-or if you want to talk about anything business related:
+E-mail for anything business related:
 killumindosbusiness@gmail.com
