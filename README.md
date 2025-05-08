@@ -69,10 +69,27 @@ Text Editor
 
 Settings
 - wallpaper : opens the wallpaper manager
+- exit : closes the settings
+
+Calculator
+- e.g. 1 + 1 (spaces must be included)
+- exit : closes the calculator
+
+Bank
+- exit : closes the bank program
 
 Minesweeper
 - r <row> <column> : reveals a tile
 - f <row> <column> : flags a tile
+
+Snake
+- arrow keys : move
+
+Casino
+- blackjack : opens blackjack
+- lottery : opens lottery
+- slot : opens slot machine
+- roulette : opens roulette
 
 Logout
 - logout : logs you out and opens the bootloader
