@@ -1,4 +1,10 @@
+## KillumindOS 1.2.1
+### 08/05/2025
+Bug fixes:
+- Getting more money than intended in roulette fixed
+
 ## KillumindOS 1.2
+### 08/05/2025
 New things:
 - Added calculator
 - Added Snake game
