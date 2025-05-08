@@ -1,5 +1,6 @@
 ## KillumindOS 1.2
 New things:
+- Added calculator
 - Added Snake game
 - Added Casino games (blackjack, lottery, slots, roulette)
 - Added Bank program to view balance
